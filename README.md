@@ -1,2 +1,3 @@
-# Dio-projeto-iac-01
-Projeto (IaC) Infraestrutura como código - Linux
+# Projeto DIO Infraestrutura (IaC) como código - Linux
+
+Script de criação para maquinas virtuais no projeto Linux da DIO
